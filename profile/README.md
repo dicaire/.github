@@ -1,3 +1,4 @@
+![Logo](Dicaire-com.png)
 <img alt="Slack open source logo" src="https://user-images.githubusercontent.com/32463/136677020-d7695029-b2d4-4a25-95fb-23369708d61d.png" height="50">
 
 &nbsp;
